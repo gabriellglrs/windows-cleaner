@@ -34,6 +34,9 @@ Um script robusto e abrangente para limpeza automática do sistema Windows, dese
 
 ## 🎯 Uso
 
+<img width="811" height="1325" alt="image" src="https://github.com/user-attachments/assets/0820e3fa-02e9-473d-aa24-48ce329d0ccc" />
+
+
 ### Execução Básica
 ```powershell
 # Modo completo com confirmação
