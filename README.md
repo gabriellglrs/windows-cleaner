@@ -1,3 +1,8 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=header"/>
+
+<img width="1584" height="396" alt="LinkedIn cover - 29" src="https://github.com/user-attachments/assets/1a289448-2b68-4e72-9c32-90d1663cf5d2" />
+
 # Script de Limpeza Windows PowerShell
 
 Um script robusto e abrangente para limpeza automática do sistema Windows, desenvolvido em PowerShell com logging detalhado e tratamento de erros.
@@ -261,3 +266,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ---
 
 **⚡ Dica**: Para melhores resultados, execute o script regularmente (semanal ou mensalmente) para manter o sistema otimizado.
+ <br>
+
+ <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed7208b8-6bdc-4c82-98aa-8c8cb9c1428f" height="150"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
