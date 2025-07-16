@@ -1,0 +1,3 @@
+# Ignorar pastas de logs
+logs/
+scripts/logs/
