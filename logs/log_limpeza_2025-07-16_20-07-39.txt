@@ -1,0 +1,47 @@
+﻿**********************
+Início da transcrição do Windows PowerShell
+Hora de início: 20250716200739
+Nome de Usuário: DESKTOP-KULHEGV\Gabriel Lucas
+Executar como Usuário: DESKTOP-KULHEGV\Gabriel Lucas
+Nome da Configuração: 
+Computador: DESKTOP-KULHEGV (Microsoft Windows NT 10.0.26100.0)
+Aplicativo Host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Gabriel Lucas\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+ID do Processo: 11060
+PSVersion: 5.1.26100.4652
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4652
+BuildVersion: 10.0.26100.4652
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcrição iniciada, o arquivo de saída é ..\logs\log_limpeza_2025-07-16_20-07-39.txt
+Iniciando limpeza do sistema...
+
+Limpando Temp do Sistema:
+0 itens encontrados...
+Temp do Sistema limpa com sucesso!
+
+Limpando Temp do UsuÃ¡rio:
+36 itens encontrados...
+Temp do UsuÃ¡rio limpa com sucesso!
+
+Limpando Cache de AtualizaÃ§Ãµes:
+21 itens encontrados...
+Cache de AtualizaÃ§Ãµes limpa com sucesso!
+
+Limpando Lixeira...
+Lixeira limpa com sucesso!
+
+Encerrando msedge (se estiver em execuÃ§Ã£o)...
+
+Encerrando Teams (se estiver em execuÃ§Ã£o)...
+
+Encerrando OneDrive (se estiver em execuÃ§Ã£o)...
+
+Limpeza concluÃ­da. Log salvo em: ..\logs\log_limpeza_2025-07-16_20-07-39.txt
+**********************
+Fim da transcrição do Windows PowerShell
+Hora de término: 20250716200739
+**********************

@@ -1,0 +1,79 @@
+﻿**********************
+Início da transcrição do Windows PowerShell
+Hora de início: 20250716200414
+Nome de Usuário: DESKTOP-KULHEGV\Gabriel Lucas
+Executar como Usuário: DESKTOP-KULHEGV\Gabriel Lucas
+Nome da Configuração: 
+Computador: DESKTOP-KULHEGV (Microsoft Windows NT 10.0.26100.0)
+Aplicativo Host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Gabriel Lucas\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+ID do Processo: 11060
+PSVersion: 5.1.26100.4652
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4652
+BuildVersion: 10.0.26100.4652
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcrição iniciada, o arquivo de saída é ..\logs\log_limpeza_2025-07-16_20-04-14.txt
+Iniciando limpeza do sistema...
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa 
+operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente 
+novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:29 caractere:1
++ Limpar-Pasta "C:\Windows\Temp" "Temp do Sistema"
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído,
+veja se o caminho está correto e tente novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:29 caractere:1
++ Limpar-Pasta "C:\Windows\Temp" "Temp do Sistema"
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa 
+operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente 
+novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:32 caractere:1
++ Limpar-Pasta "$env:TEMP" "Temp do UsuÃ¡rio"
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído,
+veja se o caminho está correto e tente novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:32 caractere:1
++ Limpar-Pasta "$env:TEMP" "Temp do UsuÃ¡rio"
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa 
+operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente 
+novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:35 caractere:1
++ Limpar-Pasta "C:\Windows\SoftwareDistribution\Download" "Cache de Atu ...
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+Limpar-Pasta : O termo 'Limpar-Pasta' não é reconhecido como nome de cmdlet, função, arquivo de
+script ou programa operável. Verifique a grafia do nome ou, se um caminho tiver sido incluído,
+veja se o caminho está correto e tente novamente.
+No C:\Dev\windows-cleaner\scripts\limpar-windows.ps1:35 caractere:1
++ Limpar-Pasta "C:\Windows\SoftwareDistribution\Download" "Cache de Atu ...
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Limpar-Pasta:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+Lixeira esvaziada!
+Encerrando msedge (se estiver em execuÃ§Ã£o)...
+Encerrando Teams (se estiver em execuÃ§Ã£o)...
+Encerrando OneDrive (se estiver em execuÃ§Ã£o)...
+**********************
+Fim da transcrição do Windows PowerShell
+Hora de término: 20250716200415
+**********************
