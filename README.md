@@ -246,8 +246,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 - **Desenvolvedor**: Gabriel lucas rodrigues souza
 - **Contato**: gabriellglrs@gmail.com
-- **GitHub**: [[https://github.com/seu-usuario]](https://github.com/gabriellglrs)
-- - **LinkedIn**: https://www.linkedin.com/in/gabriellglrs/
+- **GitHub**: https://github.com/gabriellglrs
+- **LinkedIn**: https://www.linkedin.com/in/gabriellglrs/
 
 ## 🙏 Agradecimentos
 
